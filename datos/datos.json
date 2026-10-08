@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-07T17:16:12",
+ "actualizado": "2026-10-08T00:39:59",
  "ventana_dias": 28,
  "granos": {
   "ok": true,
@@ -703,7 +703,7 @@
     "detalle": "5 de 5 ruedas comunes coinciden"
    }
   ],
-  "actualizado": "2026-10-07T17:16:12"
+  "actualizado": "2026-10-08T00:39:59"
  },
  "hacienda": {
   "ok": true,
@@ -715,13 +715,13 @@
     "nombre": "Novillo",
     "unidad": "$/kg vivo",
     "fecha": "2026-10-06",
-    "precio": 2500.0,
+    "precio": 2692.64,
     "min": 2500.0,
-    "max": 2500.0,
+    "max": 2820.0,
     "firmeza": "provisorio",
-    "cabezas": 2,
+    "cabezas": 6,
     "cabezas_tipicas": 609,
-    "completitud": 0,
+    "completitud": 1,
     "anterior": {
      "fecha": "2026-10-05",
      "precio": 3123.67,
@@ -774,11 +774,11 @@
      },
      {
       "fecha": "2026-10-06",
-      "precio": 2500.0,
+      "precio": 2692.64,
       "min": 2500.0,
-      "max": 2500.0,
-      "cabezas": 2,
-      "completitud": 0
+      "max": 2820.0,
+      "cabezas": 6,
+      "completitud": 1
      }
     ],
     "serie_semanal": [
@@ -808,18 +808,18 @@
       "precio": 3036.79
      }
     ],
-    "var_abs": -623.6700000000001,
-    "var_pct": -19.965937503001275
+    "var_abs": -431.0300000000002,
+    "var_pct": -13.798832783232552
    },
    {
     "nombre": "Novillito",
     "unidad": "$/kg vivo",
     "fecha": "2026-10-06",
-    "precio": 3098.84,
+    "precio": 3096.98,
     "min": 1810.0,
     "max": 3390.0,
     "firmeza": "provisorio",
-    "cabezas": 372,
+    "cabezas": 376,
     "cabezas_tipicas": 2336,
     "completitud": 16,
     "anterior": {
@@ -874,10 +874,10 @@
      },
      {
       "fecha": "2026-10-06",
-      "precio": 3098.84,
+      "precio": 3096.98,
       "min": 1810.0,
       "max": 3390.0,
-      "cabezas": 372,
+      "cabezas": 376,
       "completitud": 16
      }
     ],
@@ -908,20 +908,20 @@
       "precio": 3022.01
      }
     ],
-    "var_abs": -49.899999999999636,
-    "var_pct": -1.5847608884823616
+    "var_abs": -51.75999999999976,
+    "var_pct": -1.643832136029011
    },
    {
     "nombre": "Vaquillona",
     "unidad": "$/kg vivo",
     "fecha": "2026-10-06",
-    "precio": 2750.94,
+    "precio": 2841.74,
     "min": 1850.0,
     "max": 3017.28,
     "firmeza": "provisorio",
-    "cabezas": 75,
+    "cabezas": 117,
     "cabezas_tipicas": 1172,
-    "completitud": 6,
+    "completitud": 10,
     "anterior": {
      "fecha": "2026-10-05",
      "precio": 2897.63,
@@ -981,11 +981,11 @@
      },
      {
       "fecha": "2026-10-06",
-      "precio": 2750.94,
+      "precio": 2841.74,
       "min": 1850.0,
       "max": 3017.28,
-      "cabezas": 75,
-      "completitud": 6
+      "cabezas": 117,
+      "completitud": 10
      }
     ],
     "serie_semanal": [
@@ -1015,8 +1015,8 @@
       "precio": 2877.28
      }
     ],
-    "var_abs": -146.69000000000005,
-    "var_pct": -5.062413075513438
+    "var_abs": -55.89000000000033,
+    "var_pct": -1.9288176889388997
    },
    {
     "nombre": "Ternero",
@@ -1030,13 +1030,13 @@
     "nombre": "Vaca",
     "unidad": "$/kg vivo",
     "fecha": "2026-10-06",
-    "precio": 2151.9,
-    "min": 1824.51,
+    "precio": 2096.02,
+    "min": 1400.0,
     "max": 2300.0,
     "firmeza": "provisorio",
-    "cabezas": 15,
+    "cabezas": 37,
     "cabezas_tipicas": 929,
-    "completitud": 2,
+    "completitud": 4,
     "anterior": {
      "fecha": "2026-10-05",
      "precio": 1760.71,
@@ -1089,11 +1089,11 @@
      },
      {
       "fecha": "2026-10-06",
-      "precio": 2151.9,
-      "min": 1824.51,
+      "precio": 2096.02,
+      "min": 1400.0,
       "max": 2300.0,
-      "cabezas": 15,
-      "completitud": 2
+      "cabezas": 37,
+      "completitud": 4
      }
     ],
     "serie_semanal": [
@@ -1123,20 +1123,20 @@
       "precio": 1939.52
      }
     ],
-    "var_abs": 391.19000000000005,
-    "var_pct": 22.217741706470683
+    "var_abs": 335.30999999999995,
+    "var_pct": 19.04402201384667
    },
    {
     "nombre": "Toro",
     "unidad": "$/kg vivo",
     "fecha": "2026-10-06",
-    "precio": 2886.57,
-    "min": 2700.0,
+    "precio": 2880.84,
+    "min": 2489.0,
     "max": 3100.0,
     "firmeza": "provisorio",
-    "cabezas": 7,
+    "cabezas": 12,
     "cabezas_tipicas": 490,
-    "completitud": 1,
+    "completitud": 2,
     "anterior": {
      "fecha": "2026-10-05",
      "precio": 2754.83,
@@ -1189,11 +1189,11 @@
      },
      {
       "fecha": "2026-10-06",
-      "precio": 2886.57,
-      "min": 2700.0,
+      "precio": 2880.84,
+      "min": 2489.0,
       "max": 3100.0,
-      "cabezas": 7,
-      "completitud": 1
+      "cabezas": 12,
+      "completitud": 2
      }
     ],
     "serie_semanal": [
@@ -1223,25 +1223,25 @@
       "precio": 2763.37
      }
     ],
-    "var_abs": 131.74000000000024,
-    "var_pct": 4.782146266738785
+    "var_abs": 126.01000000000022,
+    "var_pct": 4.574147951053242
    }
   ],
   "controles": [
    {
     "que": "Novillo: Monitor vs. Resumen de precios (2026-10-06)",
     "ok": true,
-    "detalle": "monitor $2500.00/kg · resumen ponderado $2500.00/kg sobre 2 cabezas (desvío 0.00%)"
+    "detalle": "monitor $2692.64/kg · resumen ponderado $2693.33/kg sobre 6 cabezas (desvío 0.03%)"
    },
    {
     "que": "Novillito: Monitor vs. Resumen de precios (2026-10-06)",
     "ok": true,
-    "detalle": "monitor $3098.84/kg · resumen ponderado $3047.39/kg sobre 372 cabezas (desvío 1.66%)"
+    "detalle": "monitor $3096.98/kg · resumen ponderado $3045.77/kg sobre 376 cabezas (desvío 1.65%)"
    },
    {
     "que": "Vaquillona: Monitor vs. Resumen de precios (2026-10-06)",
     "ok": true,
-    "detalle": "monitor $2750.94/kg · resumen ponderado $2725.12/kg sobre 75 cabezas (desvío 0.94%)"
+    "detalle": "monitor $2841.74/kg · resumen ponderado $2822.08/kg sobre 117 cabezas (desvío 0.69%)"
    },
    {
     "que": "Ternero: Monitor vs. Resumen de precios",
@@ -1251,14 +1251,14 @@
    {
     "que": "Vaca: Monitor vs. Resumen de precios (2026-10-06)",
     "ok": true,
-    "detalle": "monitor $2151.90/kg · resumen ponderado $2133.93/kg sobre 15 cabezas (desvío 0.84%)"
+    "detalle": "monitor $2096.02/kg · resumen ponderado $2093.52/kg sobre 37 cabezas (desvío 0.12%)"
    },
    {
     "que": "Toro: Monitor vs. Resumen de precios (2026-10-06)",
     "ok": true,
-    "detalle": "monitor $2886.57/kg · resumen ponderado $2920.00/kg sobre 7 cabezas (desvío 1.16%)"
+    "detalle": "monitor $2880.84/kg · resumen ponderado $2912.42/kg sobre 12 cabezas (desvío 1.10%)"
    }
   ],
-  "actualizado": "2026-10-07T17:16:12"
+  "actualizado": "2026-10-08T00:39:59"
  }
 }
