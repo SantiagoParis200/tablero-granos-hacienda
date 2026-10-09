@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-08T17:12:02",
+ "actualizado": "2026-10-09T00:55:33",
  "ventana_dias": 28,
  "granos": {
   "ok": true,
@@ -728,7 +728,7 @@
     "detalle": "5 de 5 ruedas comunes coinciden"
    }
   ],
-  "actualizado": "2026-10-08T17:12:02"
+  "actualizado": "2026-10-09T00:55:33"
  },
  "hacienda": {
   "ok": true,
@@ -1284,6 +1284,6 @@
     "detalle": "monitor $3056.85/kg · resumen ponderado $3041.94/kg sobre 163 cabezas (desvío 0.49%)"
    }
   ],
-  "actualizado": "2026-10-08T17:12:02"
+  "actualizado": "2026-10-09T00:55:33"
  }
 }
