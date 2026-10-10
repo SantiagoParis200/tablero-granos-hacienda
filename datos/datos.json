@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-09T16:48:51",
+ "actualizado": "2026-10-10T00:26:54",
  "ventana_dias": 28,
  "granos": {
   "ok": true,
@@ -24,11 +24,6 @@
      "estimativo": false
     },
     "serie": [
-     {
-      "fecha": "2026-09-07",
-      "precio": 560000.0,
-      "estimativo": false
-     },
      {
       "fecha": "2026-09-08",
       "precio": 556000.0,
@@ -163,11 +158,6 @@
     },
     "serie": [
      {
-      "fecha": "2026-09-07",
-      "precio": 293000.0,
-      "estimativo": false
-     },
-     {
       "fecha": "2026-09-08",
       "precio": 293100.0,
       "estimativo": false
@@ -300,11 +290,6 @@
      "estimativo": false
     },
     "serie": [
-     {
-      "fecha": "2026-09-07",
-      "precio": 346000.0,
-      "estimativo": false
-     },
      {
       "fecha": "2026-09-08",
       "precio": 345700.0,
@@ -439,11 +424,6 @@
     },
     "serie": [
      {
-      "fecha": "2026-09-07",
-      "precio": 760000.0,
-      "estimativo": true
-     },
-     {
       "fecha": "2026-09-08",
       "precio": 760000.0,
       "estimativo": true
@@ -576,11 +556,6 @@
      "estimativo": false
     },
     "serie": [
-     {
-      "fecha": "2026-09-07",
-      "precio": 277000.0,
-      "estimativo": true
-     },
      {
       "fecha": "2026-09-08",
       "precio": 275000.0,
@@ -753,7 +728,7 @@
     "detalle": "5 de 5 ruedas comunes coinciden"
    }
   ],
-  "actualizado": "2026-10-09T16:48:51"
+  "actualizado": "2026-10-10T00:26:54"
  },
  "hacienda": {
   "ok": true,
@@ -1309,6 +1284,6 @@
     "detalle": "monitor $2821.37/kg · resumen ponderado $2825.99/kg sobre 18 cabezas (desvío 0.16%)"
    }
   ],
-  "actualizado": "2026-10-09T16:48:51"
+  "actualizado": "2026-10-10T00:26:54"
  }
 }
